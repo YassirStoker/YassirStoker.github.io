@@ -2,6 +2,6 @@
 
 {% for image in site.static_files %}
     {% if image.path contains 'assets/slider' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        ![yassir]({{ site.baseurl }}{{ image.path }})
     {% endif %}
 {% endfor %}
