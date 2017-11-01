@@ -1,2 +1,1 @@
-# YassirStoker.github.io
-Yassir Stoker Memorial
+![yassir]({{ site.url }}/assets/yassir.jpg)
